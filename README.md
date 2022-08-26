@@ -5,8 +5,8 @@
 
 ### Connect with me:
 
-[<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png">](https://www.linkedin.com/in/irem-%C3%B6-850b33231/)     [<img width="35px" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png"/>](iremmoz@gmail.com)
-<br/>
+[<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png">](https://www.linkedin.com/in/irem-%C3%B6-850b33231/)    
+
 
 ### Languages and Tools:
 
